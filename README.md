@@ -30,15 +30,13 @@ Make sure QEMU is installed and available in your `PATH`.
 
 ### Run from source
 
-If you want to try the latest code or contribute to the project, clone the repository:
+If you want to try the latest code clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/User014015/PyQemu
 cd PyQemu-Script
 python main.py
 ```
-
-Replace `<repository-url>` with the URL of this GitHub repository.
 
 ## Features
 
