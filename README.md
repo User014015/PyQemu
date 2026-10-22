@@ -1,5 +1,7 @@
 # PyQemu Script
 
+` Made in russian language `
+
 PyQemu Script is a small GUI tool that makes working with QEMU easier. Instead of writing long commands by hand, you can configure a virtual machine through a simple interface and let the app generate the QEMU command for you.
 
 It saves time, makes VM setup less annoying, and helps you avoid mistakes in long command lines.
